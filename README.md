@@ -1,5 +1,5 @@
 # teamable
-This is a demo project for IT beginner course. 
+This is a demo application project
 
 ## To run the tests, execute:
 
